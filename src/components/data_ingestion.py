@@ -12,7 +12,7 @@ from src.components.data_transformation import DataTransformationConfig
 
 from src.components.data_trainer import ModelTrainer
 from src.components.data_trainer import ModelTrainerConfig
-from sklearn.model_selection import GridSearchCV
+
 
 
 @dataclass

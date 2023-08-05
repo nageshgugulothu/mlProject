@@ -7,4 +7,5 @@ xgboost
 matplotlib
 dill
 Flask
+pymongo
 # -e .
